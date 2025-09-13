@@ -26,7 +26,7 @@ Perfect for **bots, automation, and group management** with minimal setup. 🚀
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/whatsapp-api-simplified.git
+git clone [https://github.com/sashidhar498/Custom-WhatsApp-Api](https://github.com/sashidhar498/Custom-WhatsApp-Api)
 cd whatsapp-api-simplified
 ````
 
